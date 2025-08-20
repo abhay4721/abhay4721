@@ -54,13 +54,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhayabhi4721&show_icons=true&theme=tokyonight" alt="github stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayabhi4721&layout=compact&theme=tokyonight" alt="top languages" height="165"/>
-</p>
-
----
 
 ### ☕ Support 
 <p align="center">
