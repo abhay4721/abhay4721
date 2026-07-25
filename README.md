@@ -6,33 +6,33 @@
 
 ---
 
-### 🚀 About Me  
-- 📱 Building **Custom ROMs** (Realme 9 SE 5G, Redmi Note 13 Pro 5G)  
-- 🚗 **Car Enthusiast** → Tech + Automobiles excite me  
-- 🎮 **Gamer** → PC & Mobile hardcore gaming  
-- 📚 Pursuing **BSc Computer Science**  
-- 🐧 Exploring **Arch Linux + Hyprland** customization  
-- ⚡ Fun fact: *Always experimenting, always evolving!*  
+###  About Me  
+-  Building **Custom ROMs** (Realme 9 SE 5G, Redmi Note 13 Pro 5G)  
+-  **Car Enthusiast** → Tech + Automobiles excite me  
+-  **Gamer** → PC & Mobile hardcore gaming  
+-  Pursuing **BSc Computer Science**  
+-  Exploring **Arch Linux + Hyprland** customization  
+-  Fun fact: *Always experimenting, always evolving!*  
 
 ---
 
-### 📂 Projects  
+###  Projects  
 
 🔹 **[MorseVision](https://github.com/abhay4721/MorseVision.git)**  
-   📘 Eye Blink Based Morse Code Communication System**. 
+    Eye Blink Based Morse Code Communication System**. 
    
 🔹 **[StudyBuddyFinder](https://github.com/abhay4721/Study-Buddy-Finder.git)**  
-   📘 A web app to connect students with study partners. Built with **Angular, HTML, CSS, JS**.  
+    A web app to connect students with study partners. Built with **Angular, HTML, CSS, JS**.  
 
 🔹 **[WhatsWeather](https://github.com/abhay4721/WhatsWeather)**  
-   🌦️ A simple, elegant weather app that gives real-time updates. Powered by **OpenWeather API**.  
+    A simple, elegant weather app that gives real-time updates. Powered by **OpenWeather API**.  
 
 🔹 **[GreenToBuy-ML](https://github.com/abhay4721/GreenToBuy-ML)**  
-   💹 An ML-powered app that predicts product trends and helps in smarter buying decisions. Built with **Python, FastAPI, TensorFlow**.  
+    An ML-powered app that predicts product trends and helps in smarter buying decisions. Built with **Python, FastAPI, TensorFlow**.  
 
 ---
 
-### 🌍 Connect with Me
+###  Connect with Me
 <p align="center">
 <a href="mailto:abhayabhi4721@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/abhayabhi4721"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -43,7 +43,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
@@ -57,12 +57,3 @@
 
 ---
 
-
-### ☕ Support 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/Abhayabhi4721">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/Pxel_Art_CODEWALL.gif" alt="Night Explorer" width="250"/>
-</p>
