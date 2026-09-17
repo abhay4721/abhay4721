@@ -6,20 +6,26 @@
 
 ---
 
-###  About Me  
--  Building **Custom ROMs** (Realme 9 SE 5G, Redmi Note 13 Pro 5G)  
--  **Car Enthusiast** → Tech + Automobiles excite me  
--  **Gamer** → PC & Mobile hardcore gaming  
--  Pursuing **BSc Computer Science**  
--  Exploring **Arch Linux + Hyprland** customization  
--  Fun fact: *Always experimenting, always evolving!*  
+### About Me
+
+*  **DevOps Enthusiast** → AWS, Docker, Kubernetes & CI/CD
+*  **Linux Enthusiast** → Arch Linux + Hyprland customization
+*  **Android Developer** → Building Custom ROMs & Android systems
+*  **Car Enthusiast** → Tech + Automobiles excite me
+*  **Gamer** → PC & Mobile gaming
+*  **BSc Computer Science Graduate**
+*  **Always experimenting, learning & building!**
+
 
 ---
 
 ###  Projects  
 
+ 🔹 **[SelfHeal](https://github.com)**     
+    An autonomous Kubernetes platform that detects failures via Prometheus alerts, diagnoses issues, and performs bounded actions like pod restarts, scaling, and rollbacks.
+
 🔹 **[MorseVision](https://github.com/abhay4721/MorseVision.git)**  
-    Eye Blink Based Morse Code Communication System**. 
+    Eye Blink Based Morse Code Communication System. 
    
 🔹 **[StudyBuddyFinder](https://github.com/abhay4721/Study-Buddy-Finder.git)**  
     A web app to connect students with study partners. Built with **Angular, HTML, CSS, JS**.  
@@ -32,28 +38,35 @@
 
 ---
 
-###  Connect with Me
+### Connect with Me
+
 <p align="center">
 <a href="mailto:abhayabhi4721@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/abhayabhi4721"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://fb.com/abhayabhi4721"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://instagram.com/abhayabhi4721"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/@abhayabhi4721"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://abhayabhi4721.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=person&logoColor=white"/></a>
 </p>
 
 ---
 
-###  Languages & Tools
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+
+### Languages & Tools
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40"/>
 </p>
 
----
+
 
