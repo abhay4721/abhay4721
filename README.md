@@ -24,6 +24,9 @@
  🔹 **[SelfHeal](https://github.com)**     
     An autonomous Kubernetes platform that detects failures via Prometheus alerts, diagnoses issues, and performs bounded actions like pod restarts, scaling, and rollbacks.
 
+🔹 **[DriftWatch](https://github.com/abhay4721/DriftWatch)**     
+    DriftWatch detects infrastructure drift with OpenTofu and Kubernetes scans, and tracks findings through a dashboard and API.
+
 🔹 **[MorseVision](https://github.com/abhay4721/MorseVision.git)**  
     Eye Blink Based Morse Code Communication System. 
    
