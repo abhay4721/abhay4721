@@ -27,6 +27,9 @@
 🔹 **[DriftWatch](https://github.com/abhay4721/DriftWatch)**     
     DriftWatch detects infrastructure drift with OpenTofu and Kubernetes scans, and tracks findings through a dashboard and API.
 
+🔹 **[HostSentry](https://github.com/abhay4721/HostSentry)**     
+    HostSentry is a Linux host monitoring agent written in Go. It collects system and process statistics and writes them as JSON.
+
 🔹 **[MorseVision](https://github.com/abhay4721/MorseVision.git)**  
     Eye Blink Based Morse Code Communication System. 
    
