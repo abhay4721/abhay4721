@@ -27,6 +27,12 @@
 🔹 **[DriftWatch](https://github.com/abhay4721/DriftWatch)**     
     DriftWatch detects infrastructure drift with OpenTofu and Kubernetes scans, and tracks findings through a dashboard and API.
 
+🔹 **[Pipeline-Doctor](https://github.com/abhay4721/Pipeline-Doctor)**     
+    Pipeline Doctor analyzes GitHub Actions failures using logs and rule-based insights, with PostgreSQL and optional AI support.
+    
+🔹 **[Flair](https://github.com/abhay4721/FLAIR)**     
+    FLAIR is a configurable system summary and live monitor.
+
 🔹 **[HostSentry](https://github.com/abhay4721/HostSentry)**     
     HostSentry is a Linux host monitoring agent written in Go. It collects system and process statistics and writes them as JSON.
 
